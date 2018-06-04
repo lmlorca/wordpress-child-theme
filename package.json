@@ -1,0 +1,20 @@
+{
+  "name": "WordPress Child-Theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
