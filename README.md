@@ -2,10 +2,10 @@
 
 ## sass estructure example
 
-base
-components
-layout
-pages
-utils
-vendors
+base  <br>
+components <br>
+layout <br>
+pages <br>
+utils <br>
+vendors <br>
 widgets
